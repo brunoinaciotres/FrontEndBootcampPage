@@ -11,12 +11,12 @@
 1. It gives you time <br>
 **Bootstrap** has all those pre-made components which will save you a **great amount of time** when coding your projects. 
 
-2. It maintains wide browser compatibility
-3. Easy to work with
+2. It maintains wide browser compatibility.
+3. Easy to work with.
 4. It's not bad for design <br>
 You can customize pretty much everything from **Bootstrap**. You are not limited to the Bootstrap theme style. 
-5. It maintains wide browser compatibility
-6. It offers consistent design by using re-usable components
+5. It maintains wide browser compatibility.
+6. It offers consistent design by using re-usable components.
 
 ### Mapbox
 
